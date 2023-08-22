@@ -10,11 +10,11 @@ Most inclusive Open Source community in the Universe!
   <br>
 </p>
 <h4>
-  Welcome to Alphasians!
-  Alphasians is an Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment.
+  Welcome to MarioTeam!
+  MarioTeam is an Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment.
 </h4>
 <hr>
 
-Raise an [issue to join the MarioStreak organisation](https://github.com/Huniko-Team/community/issues/new?assignees=&labels=%E2%9C%89%EF%B8%8F+github-invitation&template=invitation.yml&title=Please+invite+me+to+the+Huniko+team)
+Raise an [issue to join the MarioStreak organisation](https://github.com/MarioTeam-Team/community/issues/new?assignees=&labels=%E2%9C%89%EF%B8%8F+github-invitation&template=invitation.yml&title=Please+invite+me+to+the+MarioTeam+team)
 
 <hr>
