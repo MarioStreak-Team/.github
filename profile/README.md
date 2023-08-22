@@ -6,7 +6,7 @@ Most inclusive Open Source community in the Universe!
 
 <h2 align="center">Collaboration 1st, Code 2nd! </h2>
 <p align="center">
-  <img src="https://github.com/Alphasians/.github/blob/main/assets/Alphasians.png" height="200" width="200">
+  <img src="https://github.com/MarioStreak-Team/.github/blob/main/assets/Mario.jfjf" height="200" width="200">
   <br>
 </p>
 <h4>
