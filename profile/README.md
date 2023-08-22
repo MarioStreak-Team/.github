@@ -15,6 +15,6 @@ Most inclusive Open Source community in the Universe!
 </h4>
 <hr>
 
-Raise an [issue to join the MarioStreak organisation](https://github.com/MarioTeam-Team/community/issues/new?assignees=&labels=%E2%9C%89%EF%B8%8F+github-invitation&template=invitation.yml&title=Please+invite+me+to+the+MarioTeam+team)
+Raise an [issue to join the MarioStreak organisation](https://github.com/MarioTeam/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
 <hr>
